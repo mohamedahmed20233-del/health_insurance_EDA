@@ -1,0 +1,25 @@
+,Column Name,Description
+0,person_id,Unique ID for each person
+1,age,Age of the individual
+2,sex,Gender of the person (Male/Female)
+3,region,Geographical region where the person lives
+4,urban_rural,"Type of area (Urban, Rural, Suburban)"
+5,income,Annual income of the person
+6,education,"Education level (HS, Some College, Bachelor, etc.)"
+7,household_size,Number of people living in the household
+8,dependents,Number of dependents the person supports
+9,bmi,Body Mass Index
+10,smoker,Whether the person is a smoker (Yes/No)
+11,visits_last_year,Number of medical visits last year
+12,medication_count,Number of medications the person is taking
+13,systolic_bp,Systolic blood pressure
+14,diastolic_bp,Diastolic blood pressure
+15,ldl,LDL cholesterol level
+16,hba1c,HbA1c level (indicator of diabetes)
+17,plan_type,Health insurance plan type (HMO/PPO/etc.)
+18,deductible,Deductible amount before insurance coverage
+19,copay,Copayment amount per visit or service
+20,risk_score,Health risk score of the individual
+21,annual_medical_cost,Total medical cost per year
+22,claims_count,Number of insurance claims filed
+23,chronic_count,Number of chronic conditions
